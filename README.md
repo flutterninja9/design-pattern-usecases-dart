@@ -18,4 +18,4 @@
 > Factory pattern uses factory class for instantiating and returning classes [T1,T2,T3,ETC...] which all implement some base class "T".
 > At Tatsam we used this pattern for instantiating various BaseAcitivityTypeWidget()'s based on the [ActivityType] which was gotten from the API. Due to this we didn't needed to instantiate the ActivityWidget()'s which were not at all needed.  
 
-![Factory Pattern in Dart](https://miro.medium.com/max/875/1*qernQB-UfLn7fDbHdvAh0g.png "Factory Pattern in Dart")
+![Factory Pattern in Dart](https://raw.githubusercontent.com/flutterninja9/design-pattern-usecases-dart/main/images/factory_patttern.png "Factory Pattern in Dart")
